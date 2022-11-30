@@ -11,7 +11,9 @@
   "devDependencies": {
     "nodemon": "^2.0.2"
   },
+  "type":"module",
   "dependencies": {
-    "mongoose": "^6.1.2"
+    "express": "^4.18.2",
+    "mongoose": "^6.7.4"
   }
 }
